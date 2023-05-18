@@ -1,6 +1,6 @@
 import xgboost as xgb
 import pickle
-from make_dataset import X_train, y_train, X_train2, y_train2
+from make_dataset import *
 
 def train_model(X_train, y_train, args):
   model = xgb.XGBClassifier(**args)
