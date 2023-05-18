@@ -1,7 +1,7 @@
 import xgboost as xgb
 import pickle
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, precision_score, recall_score, accuracy_score, f1_score
-from make_dataset import *
+from make_dataset import X_train, y_train, X_train2, y_train2
 
 # Load saved model
 def load_model(name):
