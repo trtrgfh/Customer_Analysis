@@ -27,7 +27,6 @@ X6 = the app makes ordering easy for me
 ├── LICENSE            
 ├── README.md         
 ├── data
-│   ├── ACME-HappinessSurvey2020.csv
 │
 ├── models            
 │
