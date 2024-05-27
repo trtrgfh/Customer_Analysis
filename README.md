@@ -22,6 +22,31 @@ X4 = I paid a good price for my order\
 X5 = I am satisfied with my courier\
 X6 = the app makes ordering easy for me
 
+# Code structure
+```
+├── LICENSE            
+├── README.md         
+├── data
+│   ├── ACME-HappinessSurvey2020.csv
+│
+├── models            
+│
+├── notebooks         
+│
+├── reports          
+│   └── figures       
+│
+├── requirements.txt  
+│
+└── src
+    │
+    ├── data
+    │
+    ├── models
+    │
+    └── visualizations 
+```
+
 # Results and evaluation
 <img src="https://github.com/trtrgfh/Customer_Analysis/assets/73056232/1aada7cf-aecd-4ee5-9851-c32c0f85998d" width="500"/>
 <img src="https://github.com/trtrgfh/Customer_Analysis/assets/73056232/cd28d5a4-5e50-4eac-a68c-87bcf8b08598" width="500"/>
