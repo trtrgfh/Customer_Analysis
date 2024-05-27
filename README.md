@@ -27,22 +27,14 @@ X6 = the app makes ordering easy for me
 ├── LICENSE            
 ├── README.md         
 ├── data
-│
 ├── models            
-│
 ├── notebooks         
-│
 ├── reports          
 │   └── figures       
-│
 ├── requirements.txt  
-│
 └── src
-    │
     ├── data
-    │
     ├── models
-    │
     └── visualizations 
 ```
 
